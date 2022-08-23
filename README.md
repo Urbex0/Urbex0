@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Urbex0
+- 🌱 I’m currently learning C#
